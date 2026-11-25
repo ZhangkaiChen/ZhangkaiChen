@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ZhangkaiChen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+我主要围绕遥感影像智能解译开展算法研究与工程实践，重点关注农业遥感中的作物识别、种植分布制图与地块尺度分类，同时涉及水产养殖目标识别等应用。工作中结合高分辨率影像、Sentinel-2 光学时序和 Sentinel-1 雷达数据，探索深度学习与多源遥感信息融合方法，利用光谱、空间结构及作物生长过程中的物候特征，提高复杂场景下的识别能力。
+My work combines algorithm research and engineering practice in remote sensing image analysis, with a particular focus on crop identification, crop distribution mapping, and parcel-level classification for agricultural applications. I also work on applications such as aquaculture feature detection. By integrating high-resolution imagery, Sentinel-2 optical time series, and Sentinel-1 SAR data, I explore deep learning and multisource data fusion methods that draw on spectral, spatial, and phenological information to improve recognition performance in complex environments.
 
-<!---
-ZhangkaiChen/ZhangkaiChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+我的研究兴趣集中在多模态遥感学习、时序特征建模、语义与实例分割，以及作物早期识别和不确定性分析。我尤其关注如何利用不同传感器和不同生育阶段的信息互补，提升模型在数据缺失、类别相似和观测条件变化时的稳定性，让研究方法更好地适应实际业务需求。
+My research interests include multimodal learning for remote sensing, temporal feature modeling, semantic and instance segmentation, early crop identification, and uncertainty analysis. I am particularly interested in using complementary information from different sensors and crop growth stages to improve model robustness under missing observations, similarities between classes, and changing observation conditions. My goal is to develop methods that effectively address practical application needs.
+
+在工作方式上，我注重算法研究与工程实现的结合，参与从数据处理、模型复现与适配、训练评估到推理部署的各个环节，也关注实验的可复现性、结果的可追溯性及技术文档的规范表达。此外，我对论文、代码与专利技术方案之间的衔接保持兴趣，希望将具体应用问题转化为有依据、可验证、可落地的技术方案。
+I emphasize connecting algorithm research with engineering implementation, working across data processing, model reproduction and adaptation, training and evaluation, and inference deployment. I value reproducible experiments, traceable results, and clear technical documentation. I am also interested in connecting research papers, software implementations, and patent development, with the aim of turning practical problems into evidence-based, verifiable, and deployable technical solutions.
